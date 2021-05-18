@@ -14,7 +14,7 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
 
 
 <p align='center'>
-<a href="https://www.instagram.com/adarsh.dayanand/"><img height="30" width="30" src="https://github.com/adarsh-dayanand/adarsh-dayanand/blob/main/icons/instagram.png"></a>
+<a href="https://www.instagram.com/adarsh.dayanand/"><img height="30" src="https://github.com/adarsh-dayanand/adarsh-dayanand/blob/main/icons/instagram.png"></a>
   
-<a href="https://www.linkedin.com/in/ad-adarsh/"><img height="30" width="30" src="https://github.com/adarsh-dayanand/adarsh-dayanand/blob/main/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ad-adarsh/"><img height="30" src="https://github.com/adarsh-dayanand/adarsh-dayanand/blob/main/icons/linkedin.png"></a>
 </p>
