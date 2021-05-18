@@ -1,4 +1,4 @@
-![image](https://github.com/adarsh-dayanand/adarsh-dayanand/blob/main/banner.png)
+![image](https://github.com/adarsh-dayanand/adarsh-dayanand/blob/main/Banner.gif)
 
 
 ### Hi there 👋
