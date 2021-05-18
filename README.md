@@ -11,5 +11,5 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with AWS 🥶
 - 💬 Ask me about Anything
-- 📱 [Instagram](https://www.instagram.com/adarsh.dayanand/)
+- 📱 ![Instagram](https://www.instagram.com/adarsh.dayanand/)
 
