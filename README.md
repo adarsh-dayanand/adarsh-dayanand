@@ -28,8 +28,8 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
 <a href="https://github.com/adarsh-dayanand">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dayanand&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dayanand&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/adarsh-dayanand">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-dayanand&show_icons=true&theme=light&line_height=27" alt="Adarsh's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-dayanand&show_icons=true&theme=dark&line_height=27" alt="Adarsh's github stats"/>
 </a>
