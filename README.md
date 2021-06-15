@@ -34,3 +34,9 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
 <a href="https://github.com/adarsh-dayanand">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-dayanand&show_icons=true&theme=dark&line_height=27" alt="Adarsh's github stats"/>
 </a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
