@@ -13,7 +13,8 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
 - 🤔 I’m looking for help with AWS 🥶
 - 💬 Ask me about Anything
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-dayanand&label=Views&color=blue&style=plastic" alt="adarsh-dayanand" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-dayanand&label=Views&color=blue&style=plastic" alt="adarsh-dayanand" /></p>
+
 ![GitHub followers](https://img.shields.io/github/followers/adarsh-dayanand?logo=GitHub&style=for-the-badge)
 
 <p align="center">
