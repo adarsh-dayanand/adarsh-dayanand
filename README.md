@@ -30,13 +30,9 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
 <div>
-  <a href="https://github.com/adarsh-dayanand">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dayanand&theme=light&hide_langs_below=1" />
-  </a>
-  
-  <a href="https://github.com/adarsh-dayanand">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-dayanand&show_icons=true&theme=light&line_height=27" alt="Adarsh's github stats"/>
-  </a>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dayanand&layout=compact&hide=html" alt="adarsh-dayanand" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-dayanand&show_icons=true" alt="adarsh-dayanand" /></p>
 </div>
 
 <div align="center">
@@ -46,7 +42,5 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dayanand&layout=compact&hide=html" alt="abuanwar072" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-dayanand&show_icons=true" alt="abuanwar072" /></p>
 
