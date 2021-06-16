@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 ## I am Adarsh D
-<h3 align="center">A self-taught programmer</h3>
+<h3 align="start">A self-taught programmer</h3>
 
 I develop applications majorly using MERN stack, Flutter and create blog posts. I have a passion for learning and sharing my knowledge with others as public as possible. You can see a full list of what I am up to. If you found value in something I have created, please feel free to ping me. I would love to see you there.
 
@@ -44,3 +44,9 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dayanand&layout=compact&hide=html" alt="abuanwar072" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-dayanand&show_icons=true" alt="abuanwar072" /></p>
+
