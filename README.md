@@ -4,6 +4,7 @@
 ### Hi there 👋
 
 ## I am Adarsh D
+<h3 align="center">A self-taught programmer</h3>
 
 I develop applications majorly using MERN stack, Flutter and create blog posts. I have a passion for learning and sharing my knowledge with others as public as possible. You can see a full list of what I am up to. If you found value in something I have created, please feel free to ping me. I would love to see you there.
 
