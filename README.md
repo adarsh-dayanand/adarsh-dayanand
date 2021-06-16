@@ -5,7 +5,7 @@
 
 ## I am Adarsh D
 <h3 align="start">A self-taught programmer</h3>
-![GitHub followers](https://img.shields.io/github/followers/adarsh-dayanand?logo=GitHub&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/adarsh-dayanand?logo=GitHub&style=for-the-badge)
 
 I develop applications majorly using MERN stack, Flutter and create blog posts. I have a passion for learning and sharing my knowledge with others as public as possible. You can see a full list of what I am up to. If you found value in something I have created, please feel free to ping me. I would love to see you there.
 
