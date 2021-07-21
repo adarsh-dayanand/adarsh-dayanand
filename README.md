@@ -39,7 +39,7 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="34" height="34"/></code>
 
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dayanand&layout=compact&hide=html" alt="adarsh-dayanand" /></p>
+<!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dayanand&layout=compact&hide=html" alt="adarsh-dayanand" /></p> -->
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-dayanand&show_icons=true" alt="adarsh-dayanand" /></p>
   
