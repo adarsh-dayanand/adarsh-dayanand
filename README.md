@@ -49,7 +49,7 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by following me and starring some of the repositories!
 
 </div>
 
