@@ -47,20 +47,17 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-dayanand&" alt="adarsh-dayanand" /></p>
   
+   <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=adarsh-dayanand&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dayanand&layout=compact&count_private=true&hide_border=true)</a>
+
+  
 </div>
 
 <div align="center">
 
 ### Show some ❤️ by following me and starring some of the repositories!
-  
-  
-  <details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=adarsh-dayanand&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dayanand&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
-
 </div>
 
 
