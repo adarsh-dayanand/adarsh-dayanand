@@ -29,25 +29,24 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
 
 ## Languages and Tools:
 
-
-![status](https://nocache.adarsh-dayanand.workers.dev)
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="34" height="34"/></code>
-
+ -->
+ 
 <div>
-<!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dayanand&layout=compact&hide=html" alt="adarsh-dayanand" /></p> -->
+  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dayanand&layout=compact&hide=html" alt="adarsh-dayanand" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-dayanand&show_icons=true" alt="adarsh-dayanand" /></p>
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-dayanand&" alt="adarsh-dayanand" /></p>
   
-   <summary>Github Stats ⚡</summary>
+  <h4>Github Stats ⚡</h4>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=adarsh-dayanand&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dayanand&layout=compact&count_private=true&hide_border=true)</a>
