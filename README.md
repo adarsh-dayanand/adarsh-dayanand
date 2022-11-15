@@ -24,10 +24,10 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
 </p>
 
 
+## Languages and Tools:
+
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,mongodb,figma)](https://skillicons.dev)<br/>
 
-
-## Languages and Tools:
 
 <!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -39,7 +39,7 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
  -->
  
 
-<h4>Github Stats ⚡</h4>
+## Github Stats ⚡
 <div>
   
 <!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dayanand&layout=compact&hide=html" alt="adarsh-dayanand" /></p>
