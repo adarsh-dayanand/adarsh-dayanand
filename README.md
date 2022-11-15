@@ -38,19 +38,15 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="34" height="34"/></code>
  -->
  
+
+<h4>Github Stats ⚡</h4>
 <div>
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dayanand&layout=compact&hide=html" alt="adarsh-dayanand" /></p>
-
+<!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dayanand&layout=compact&hide=html" alt="adarsh-dayanand" /></p>
+ -->
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-dayanand&show_icons=true" alt="adarsh-dayanand" /></p>
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-dayanand&" alt="adarsh-dayanand" /></p>
-  
-  <h4>Github Stats ⚡</h4>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=adarsh-dayanand&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dayanand&layout=compact&count_private=true&hide_border=true)</a>
-
   
 </div>
 
