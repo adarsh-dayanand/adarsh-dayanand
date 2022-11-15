@@ -30,7 +30,7 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
 ## Languages and Tools:
 
 
-![status](https://nocache.adarsh-dayanand.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![status](https://nocache.adarsh-dayanand.workers.dev)
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -52,6 +52,14 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
 <div align="center">
 
 ### Show some ❤️ by following me and starring some of the repositories!
+  
+  
+  <details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=adarsh-dayanand&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dayanand&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
 </div>
 
