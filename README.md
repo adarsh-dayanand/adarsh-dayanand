@@ -8,9 +8,9 @@
 
 I develop applications majorly using MERN stack, Flutter and create blog posts. I have a passion for learning and sharing my knowledge with others as public as possible. You can see a full list of what I am up to. If you found value in something I have created, please feel free to ping me. I would love to see you there.
 
-- 🔭 I’m currently working on Node JS, React JS and Flutter
-- 🌱 I’m currently learning React Native
-- 🤔 I’m looking for help with AWS 🥶
+- 🔭 I’m currently working on Node JS, React JS, React native and Flutter
+- 🌱 I’m currently learning Data Science
+- 🤔 I’m looking for help with Devops 🥶
 - 💬 Ask me about Anything
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-dayanand&label=Views&color=blue&style=plastic" alt="adarsh-dayanand" /></p>
@@ -23,6 +23,8 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
   <a href="https://www.linkedin.com/in/ad-adarsh/"><img height="30" src="https://github.com/adarsh-dayanand/adarsh-dayanand/blob/main/icons/linkedin.png"></a>
 </p>
 
+
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
 
 
 ## Languages and Tools:
