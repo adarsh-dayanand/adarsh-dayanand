@@ -20,7 +20,7 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
 <p align="center">
   <a href="https://www.instagram.com/adarsh.dayanand/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/900px-Instagram_icon.png?20200512141346"></a>
   &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/ad-adarsh/"><img height="30" src="https://github.com/adarsh-dayanand/adarsh-dayanand/blob/main/icons/linkedin.png"></a>
+  <a href="https://www.linkedin.com/in/ad-adarsh/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/437px-LinkedIn_Logo.svg.png?20170711102837"></a>
 </p>
 
 
