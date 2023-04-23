@@ -23,9 +23,6 @@ I develop applications majorly using MERN stack, Flutter and create blog posts. 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adarsh-dayanand&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/AdarshDayanand)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
