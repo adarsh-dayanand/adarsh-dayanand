@@ -6,11 +6,11 @@
 ## I am Adarsh D
 <h3 align="start">A self-taught programmer</h3>
 
-👨‍💻 Full-stack developer proficient in MERN stack, React Native, and Flutter.
-📱 Passionate about crafting seamless mobile experiences and scalable web applications.
-✍️ Blogger on Medium, sharing insights and tutorials on software development.
-🌟 Committed to continuous learning and knowledge sharing.
-🔗 Explore my projects and articles below, and let's connect!
+👨‍💻 Full-stack developer proficient in MERN stack, React Native, and Flutter. <br />
+📱 Passionate about crafting seamless mobile experiences and scalable web applications.<br />
+✍️ Blogger on Medium, sharing insights and tutorials on software development.<br />
+🌟 Committed to continuous learning and knowledge sharing.<br />
+🔗 Explore my projects and articles below, and let's connect!<br /><br />
 
 
 ## 🌐 Socials:
