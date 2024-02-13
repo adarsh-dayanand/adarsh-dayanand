@@ -32,5 +32,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=adarsh-dayanand&icon=5&color=1)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=adarsh-dayanand&label=Profile%20Views&icon=8&pretty=false)](https://visitcount.itsvg.in)
-
