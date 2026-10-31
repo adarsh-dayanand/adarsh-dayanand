@@ -1,6 +1,3 @@
-![image](https://github.com/adarsh-dayanand/adarsh-dayanand/blob/main/Banner.gif)
-
-
 ### Hi there 👋
 
 ## I am Adarsh D
