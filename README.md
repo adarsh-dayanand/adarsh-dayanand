@@ -4,12 +4,13 @@
 ### Hi there 👋
 
 ## I am Adarsh D
-<h3 align="start">A self-taught programmer</h3>
+<h3 align="start">AI Full Stack Engineer @ Cargill</h3>
 
-👨‍💻 Full-stack developer proficient in MERN stack, React Native, and Flutter. <br />
-📱 Passionate about crafting seamless mobile experiences and scalable web applications.<br />
+🤖 Gen AI Full Stack Engineer with 5+ years of experience, working at the intersection of artificial intelligence and full-stack development.<br />
+👨‍💻 Building intelligent, scalable, user-focused applications with Python, React, React Native, Node.js, and cloud solutions.<br />
+🏗️ Focused on clean architecture, scalability, and high performance.<br />
+🎓 B.E. in Computer Science from Malnad College of Engineering.<br />
 ✍️ Blogger on Medium, sharing insights and tutorials on software development.<br />
-🌟 Committed to continuous learning and knowledge sharing.<br />
 🔗 Explore my projects and articles below, and let's connect!<br /><br />
 
 
